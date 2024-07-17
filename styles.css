@@ -37,6 +37,7 @@ main{
     border: 2px solid #d6d3d3;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     float: left;
 }
 
