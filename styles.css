@@ -49,7 +49,7 @@ main{
     height: 150px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
-    trasition: 1s;
+    transition: 1s;
 }
 
 .gallery img:hover{
